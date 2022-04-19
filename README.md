@@ -10,6 +10,9 @@ The solutions and notes of leetcode top hot 100 by tag.
 
 ### BFS
 
+102. [二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
+103. [二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
+
 ### DFS
 
 ### 动态规划
