@@ -25,3 +25,4 @@ The solutions and notes of leetcode top hot 100 by tag.
 ## 学习资料
 
 - [如何写递归](https://leetcode-cn.com/circle/article/koSrVI/)
+- https://www.bilibili.com/video/BV1P5411N7Xc/?vd_source=744542607f9c2e78ef766ab9af398bd0
